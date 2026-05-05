@@ -16,7 +16,7 @@ Tamil Translation: வணக்கம், இன்று நீங்கள் 
 
 ⚙️ Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/language-translator.git
+git clone https://github.com/abinaya-mahendran123/language-translator.git
 
 # Navigate into the folder
 cd language-translator
@@ -38,7 +38,7 @@ pip install googletrans==4.0.0-rc1
 🌐 Multi-language selection
 📱 Convert into web/mobile app
 
-📊 GitHub Stats (Replace with your username)
+📊 GitHub Stats (abinaya-mahendran123)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abinaya-mahendran123&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinaya-mahendran123&layout=compact&theme=tokyonight" /> </p>
 🤝 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/abinaya-mahendran-8282ab308/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/abinaya-mahendran123"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"> </a> </p>
