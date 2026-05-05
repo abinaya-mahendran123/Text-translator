@@ -1,4 +1,4 @@
-🌍✨** Language Translator (Python)**
+🌍✨ Language Translator (Python)
 <p align="center"> <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Library-googletrans-green?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"> <img src="https://img.shields.io/github/license/abinaya-mahendran123/language-translator?style=for-the-badge"> </p>
 
 🚀 **About the Project**
@@ -8,11 +8,13 @@ It uses the googletrans library to translate text from English → Tamil instant
 
 💡 Perfect for beginners learning:
 
-APIs
-Python libraries
-Automation scripts
+         APIs
+         Python libraries
+         Automation scripts
 
-📌** Output**
+
+📌 Output
+
 Tamil Translation: வணக்கம், இன்று நீங்கள் எப்படி இருக்கிறீர்கள்?
 
 ⚙️ Installation & Setup
